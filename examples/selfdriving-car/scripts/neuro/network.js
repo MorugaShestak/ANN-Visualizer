@@ -42,7 +42,6 @@ class Level {
         for (let i = 0; i < inputCount; i++) {
             this.weights[i] = new Array(outputCount);
         }
-
         Level.#randomize(this);
     }
 

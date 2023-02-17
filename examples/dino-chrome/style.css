@@ -1,0 +1,10 @@
+body {
+    background-color: #201020;
+    display: flex;
+    justify-content: center;
+}
+
+#dinoCanvas {
+    height: 100%;
+    width: 100%;
+}
